@@ -1,0 +1,26 @@
+.bg-gallery{
+    padding-top: 15px;
+    background-image: url("https://images.pexels.com/photos/5653734/pexels-photo-5653734.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    height:230vh;
+}
+.pic1{
+    width: 49%;
+    
+}
+.carousell{
+    padding-top: 10px;
+    
+}
+.header{
+    color: yellow;
+    display: flex;
+    justify-content: end;
+    font-weight: bold;
+    padding: 15px;
+    
+}
+.each_header{
+    margin-left: 10px;
+    font-size: 15px;
+}

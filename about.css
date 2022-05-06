@@ -1,0 +1,32 @@
+.about_bg{
+    background-image: url("https://images.pexels.com/photos/1214566/pexels-photo-1214566.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    height: 100vh;
+}
+.header{
+    color: yellow;
+    display: flex;
+    justify-content: end;
+    font-weight: bold;
+    padding: 15px;
+    
+}
+.each_header{
+    margin-left: 10px;
+    font-size: 15px;
+}
+.about_introduction{
+    border-style: solid;
+    padding:10px;
+    border-color: lightblue;
+    border-width: 10px;
+    margin:20px;
+    height:250px;
+    border-radius:10px;
+    
+    }
+    .about_para{
+        font-size: 20px;
+        font-weight: bold;
+        color: rgb(5, 5, 5);
+    }

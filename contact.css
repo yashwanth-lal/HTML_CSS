@@ -1,0 +1,52 @@
+.bg-contact{
+    background-image: url("https://images.pexels.com/photos/7255731/pexels-photo-7255731.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    height:100vh;
+}
+.header{
+    color: yellow;
+    display: flex;
+    justify-content: end;
+    font-weight: bold;
+    padding: 15px;
+    
+}
+.each_header{
+    margin-left: 10px;
+    font-size: 15px;
+}
+.contact_introduction{
+border-style: solid;
+padding:10px;
+border-color: lightblue;
+border-width: 10px;
+margin:20px;
+height:250px;
+border-radius:10px;
+text-align: center;
+}
+.about_para1{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(19, 19, 19);
+}
+.about_para2{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(5, 5, 5);
+}
+.about_para3{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(13, 13, 13);
+}
+.about_para4{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(9, 9, 8);
+}
+.about_para5{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(8, 8, 8);
+}
